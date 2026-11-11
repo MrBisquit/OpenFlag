@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/modules/" />
+  <Folder Name="/src/modules/OpenFlag.Modules.Database/">
+    <Project Path="src/modules/OpenFlag.Modules.Database/OpenFlag.Modules.Database/OpenFlag.Modules.Database.csproj" Id="b4aaa9c3-4f73-4cde-9034-98001f8ec0aa" />
+  </Folder>
+  <Folder Name="/src/shared/">
+    <Project Path="src/shared/OpenFlag.API/OpenFlag.API.csproj" />
+  </Folder>
+</Solution>
