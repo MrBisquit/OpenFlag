@@ -1,7 +1,10 @@
 <Solution>
-  <Folder Name="/src/" />
+  <Folder Name="/src/">
+    <Project Path="src/runner/OpenFlag.Runner.ASP/OpenFlag.Runner.ASP.csproj" Id="31237293-972a-4fca-8f2f-ca07333b266d" />
+  </Folder>
   <Folder Name="/src/modules/" />
   <Folder Name="/src/modules/OpenFlag.Modules.Database/">
+    <Project Path="src/modules/OpenFlag.Modules.Database/OpenFlag.Modules.Database.SQLite/OpenFlag.Modules.Database.SQLite.csproj" Id="795803cb-bfd4-49bc-b603-89067fafd336" />
     <Project Path="src/modules/OpenFlag.Modules.Database/OpenFlag.Modules.Database/OpenFlag.Modules.Database.csproj" Id="b4aaa9c3-4f73-4cde-9034-98001f8ec0aa" />
   </Folder>
   <Folder Name="/src/shared/">
